@@ -7,10 +7,10 @@
 
 Credits: @Deep Shah
 
-[![Watch the video](https://github.com/Deeps966/Desi-Loan-Book/blob/main/Dashboard.jpeg)](https://github.com/Deeps966/Desi-Loan-Book/blob/main/Desi%20Loan%20Book%20Demo.mp4)
+https://user-images.githubusercontent.com/75880353/120633657-04334f80-c488-11eb-9fb5-7ba5512c36a7.mp4
 
 <p align="center">
-  <img src="https://github.com/Deeps966/Desi-Loan-Book/blob/main/Dashboard.jpeg" width="350">
+  <img src="https://github.com/Deeps966/Desi-Loan-Book/blob/main/Dashboard.jpeg" width="350">  
   <img src="https://github.com/Deeps966/Desi-Loan-Book/blob/main/Bill%20Entries.jpeg" width="350">
   <img src="https://github.com/Deeps966/Desi-Loan-Book/blob/main/Expense%20Entries.jpeg" width="350">
   <img src="https://github.com/Deeps966/Desi-Loan-Book/blob/main/View%20Data.jpeg" width="350">
