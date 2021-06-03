@@ -7,6 +7,8 @@
 
 Credits: @Deep Shah
 
+[![Watch the video](https://github.com/Deeps966/Desi-Loan-Book/blob/main/Dashboard.jpeg)](https://github.com/Deeps966/Desi-Loan-Book/blob/main/Desi%20Loan%20Book%20Demo.mp4)
+
 <p align="center">
   <img src="https://github.com/Deeps966/Desi-Loan-Book/blob/main/Dashboard.jpeg" width="350">
   <img src="https://github.com/Deeps966/Desi-Loan-Book/blob/main/Bill%20Entries.jpeg" width="350">
